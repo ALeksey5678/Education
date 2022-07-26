@@ -5,6 +5,7 @@ public class Lesson2 {
         System.out.println("Hello World");
         talk();
         System.out.println("some changes");
+        talkEvenMore();
 
 
     }
@@ -12,6 +13,9 @@ public class Lesson2 {
     public static void talk() {
         System.out.println("Hello");
 
+    }
+    public static void talkEvenMore(){
+        System.out.println("Even more changes");
     }
 }
 
