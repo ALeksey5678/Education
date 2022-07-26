@@ -6,7 +6,7 @@ public class Lesson2 {
         talk();
         System.out.println("some changes");
         talkEvenMore();
-
+        System.out.println("should be in 'Not main' branch");
 
     }
 
