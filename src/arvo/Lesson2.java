@@ -7,6 +7,7 @@ public class Lesson2 {
         System.out.println("some changes");
         talkEvenMore();
         System.out.println("should be in 'Not main' branch");
+        System.out.println("commited in Not main branch but merged");
 
     }
 
